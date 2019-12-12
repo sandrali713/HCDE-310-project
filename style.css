@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat|Montserrat&display=swap');
+body {
+    background-image: url("sky.png");
+    background-position: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: lightcyan;
+    width: 80%;
+    margin: 20vh auto auto;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 40pt;
+    font-family: "Montserrat", sans-serif;
+}
+
+select, span, input {
+    font-family: "Montserrat", sans-serif;
+}
+
+label {
+    font-family: "Caveat", sans-serif;
+    font-size: 25pt;
+}

@@ -1,0 +1,14 @@
+While working on my project, I realized my writeup was too vague and unfocused, so I decided to let the user
+choose 2 variables (the start date and country), and I would have an automatic input for the rest of the parameters
+based on research about what they meant. I found that the API gave almost an overwhelming amount of data, so I had to limit
+what I could use to what my user might be interested in. I was disappointed that I couldn't populate an HTML webpage and
+see my result - I couldn't get the webapp2 module to load, despite trying for hours (I think something might be wrong with
+my app.yaml. I tried to write the rest of the code regardless but it was hard without being able to test it along the way.
+I wanted to do something with app engine because I thought it was a bit confusing when we first went over it, but it seems
+very practical and something that I might want to use later, so I thought I'd try it. I ended up running out of time
+from all the small things I got stuck on, but I've definitely learned my lesson here - start earlier!! I was also too optimistic
+about the visual design aspect - that was something I never got to but would like to add in the future.
+
+I couldn't get a demo video because of it not loading, but I included a screenshot of what my HTML page looks like!
+I wanted it to add value to people's lives to show them how drastic climate change is and the big differences we might see in
+our planet in 1-60 years, and I'm sad I won't be able to have that impact yet :(
